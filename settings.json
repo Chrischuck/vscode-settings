@@ -1,0 +1,14 @@
+{
+  "workbench.welcome.enabled": false,
+  "editor.fontSize": 14,
+  "workbench.colorTheme": "Atom One Dark",
+  "window.zoomLevel": 1,
+  "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace",
+  "workbench.editor.enablePreview": false,
+  "auto-close-tag.enableAutoCloseSelfClosingTag": false,
+  "editor.tabSize": 2,
+  "editor.cursorBlinking": "solid",
+  "atomKeymap.promptV3Features": true,
+  "editor.minimap.enabled": false,
+  "extensions.ignoreRecommendations": true,
+}
